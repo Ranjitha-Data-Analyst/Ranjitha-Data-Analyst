@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Ranjitha
 
-<!--
-**Ranjitha-Data-Analyst/Ranjitha-Data-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analyst with strong SQL & Analytics skills  
+🔍 Interested in business insights, reporting & decision-making  
+🛠 Skills: SQL | Excel | Python | Power BI  
+---
+### 📂 Featured Projects
+- SQL Interview Questions & Solutions
+- Sales & Revenue Analysis (SQL)
+- Customer Retention Analysis
+- Excel & Dashboard Projects
+---
+### 🎯 What I Do
+- Write optimized SQL queries
+- Analyze business data
+- Build reports & dashboards
+- Convert raw data into insights
+---
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/ranjitha-chandrappa-16a2981b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
