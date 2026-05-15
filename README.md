@@ -2,7 +2,7 @@
 
 📊 Data Analyst with strong SQL & Analytics skills  
 🔍 Interested in business insights, reporting & decision-making  
-🛠 Skills: SQL | Excel | Python | Tabluea 
+🛠 Skills: SQL | Excel | Python | Numpy | Pandas |Tabluea 
 ---
 ### 📂 Featured Projects
 - SQL Interview Questions & Solutions
